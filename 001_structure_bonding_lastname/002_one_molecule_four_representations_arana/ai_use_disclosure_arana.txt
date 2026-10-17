@@ -1,0 +1,3 @@
+AI Use Disclosure
+Tool: Gemini AI
+Purpose: Formatting guidance and GitHub repo setup assistance.
