@@ -1,3 +1,12 @@
-AI Use Disclosure
-Tool: Gemini AI
-Purpose: Formatting guidance and GitHub repo setup assistance.
+AI USE DISCLOSURE STATEMENT FOR ACTIVITY 1
+Course: CHEM 13 | Organic Chemistry (Lecture)
+Activity: Asynchronous Activity No. 2
+Student Name: Arana, Janelle A.
+Year & Block: 2A
+Department: Department of Chemical Engineering, Bicol University
+
+AI tool that I used:
+Google Gemini AI
+
+The Purpose and Nature of AI Assistance in My Infograpics:
+Formatting guidance and GitHub repo setup assistance.
